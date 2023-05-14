@@ -1,2 +1,2 @@
 # odin-recipes
-# TOP working on the basics, dude.
+# TOP working on the basics, dude!
